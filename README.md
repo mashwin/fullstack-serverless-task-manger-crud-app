@@ -32,3 +32,11 @@ Follow the steps below to setup the frontend:
 - execute `npm install`
 - execute `npm run dev`
 - access the application on `localhost:5173` using browser of your choice
+
+### Add Task Manager
+
+![alt text](add-task-manager-application-jun-2024.png)
+
+### Update Task Manager
+
+![alt text](update-task-manager-jun-2024.png)
